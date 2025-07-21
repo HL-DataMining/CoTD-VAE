@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-The `main.py` script provides a simple, self-contained example of how to use the `CoTDVAE` model. It creates dummy data, initializes the model, runs a few training steps, and demonstrates how to extract features.
+The `main.py` script provides a simple, self-contained example of how to use the `CoTD-VAE` model. It creates dummy data, initializes the model, runs a few training steps, and demonstrates how to extract features.
 
 To run the example:
 ```bash
