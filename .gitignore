@@ -73,7 +73,7 @@ logs/
 
 # --- Machine Learning Specific ---
 
-# Data files - You should not commit large datasets to Git
+# Data files 
 data/
 datasets/
 *.csv
