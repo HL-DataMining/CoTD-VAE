@@ -51,13 +51,21 @@ Creating dummy data with shape: [32, 9, 64]
 Initializing CoTD-VAE model...
 
 Starting a simple training loop for 5 epochs...
+
 --- Epoch 1/5 ---
+
 Total Loss: 296.7708
+
   recon_loss: 1.0632
+  
   kl_static: 0.0431
+  
   kl_trend: 138.9658
+  
   kl_event: 150.7921
+  
   L_smooth: 5.9330
+  
   L_sparse: -0.0264
 ... (and so on for other epochs)
 
