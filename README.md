@@ -1,7 +1,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.12+-blue.svg)
-# CoTD-VAE: Constrained Temporal Disentanglement VAE
+# CoTD-VAE: Constrained Temporal Disentangled VAE
 
-This repository contains a PyTorch implementation of a **Constrained Temporal Disentanglement Variational Autoencoder (CoTD-VAE)**. The model is designed to decompose multivariate time series data into three interpretable latent components: a **static** component, a **trend** component, and an **event** component.
+This repository contains a PyTorch implementation of a **Constrained Temporal Disentangled Variational Autoencoder (CoTD-VAE)**. The model is designed to decompose multivariate time series data into three interpretable latent components: a **static** component, a **trend** component, and an **event** component.
 
 ## Core Idea
 
