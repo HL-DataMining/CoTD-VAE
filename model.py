@@ -44,7 +44,7 @@ class TemporalDecoder(nn.Module):
 
 class CoTDVAE(nn.Module):
     """
-    Contrastive Temporal Disentanglement Variational Autoencoder (CoTD-VAE).
+    constrained Temporal Disentangled Variational Autoencoder (CoTD-VAE).
 
     This model disentangles a time series into three components:
     1. Static: Time-invariant global properties.
