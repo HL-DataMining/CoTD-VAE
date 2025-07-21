@@ -15,6 +15,7 @@ By training the VAE to reconstruct the original series while simultaneously opti
 ## Project Structure
 
 cotd-vae-project/
+
 ├── .gitignore 
 ├── LICENSE 
 ├── README.md 
