@@ -1,3 +1,4 @@
+![Python Version](https://img.shields.io/badge/python-3.12+-blue.svg)
 # CoTD-VAE: Contrastive Temporal Disentanglement VAE
 
 This repository contains a PyTorch implementation of a **Contrastive Temporal Disentanglement Variational Autoencoder (CoTD-VAE)**. The model is designed to decompose multivariate time series data into three interpretable latent components: a **static** component, a **trend** component, and an **event** component.
